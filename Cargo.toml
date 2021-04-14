@@ -1,0 +1,12 @@
+[package]
+name = "ant_king_container"
+version = "0.3.1"
+authors = ["lurui <lurui@ipfsforce.com>"]
+edition = "2018"
+description = "A Library For Container Runtime."
+repository = "https://github.com/ruilkqun/AntKingContainer.git"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
